@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 ## String Matching
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
