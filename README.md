@@ -49,6 +49,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
