@@ -6,6 +6,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0148-sort-list) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
