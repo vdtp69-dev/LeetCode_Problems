@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
