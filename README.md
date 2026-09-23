@@ -32,6 +32,7 @@
 | [0148-sort-list](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0148-sort-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Merge Sort
 |  |
 | ------- |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
