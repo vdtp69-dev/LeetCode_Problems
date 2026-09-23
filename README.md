@@ -21,6 +21,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0509-fibonacci-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
