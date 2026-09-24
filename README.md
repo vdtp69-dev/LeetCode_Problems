@@ -63,6 +63,7 @@
 | [0050-powx-n](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0509-fibonacci-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -71,6 +72,7 @@
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
