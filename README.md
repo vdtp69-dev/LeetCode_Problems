@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0078-subsets) |
 | [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -155,4 +156,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
