@@ -40,6 +40,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
