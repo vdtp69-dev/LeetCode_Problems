@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0392-is-subsequence) |
@@ -79,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0509-fibonacci-number) |
@@ -147,5 +149,10 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
