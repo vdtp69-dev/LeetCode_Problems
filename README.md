@@ -77,6 +77,7 @@
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Merge Sort
 |  |
@@ -128,6 +130,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
