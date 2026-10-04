@@ -78,6 +78,7 @@
 | [0078-subsets](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -131,6 +132,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -189,5 +191,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
