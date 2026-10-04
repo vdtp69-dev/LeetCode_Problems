@@ -42,6 +42,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -87,11 +88,13 @@
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -156,6 +159,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -172,4 +176,8 @@
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
