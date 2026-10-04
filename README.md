@@ -83,6 +83,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
@@ -135,6 +136,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -196,4 +198,5 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
