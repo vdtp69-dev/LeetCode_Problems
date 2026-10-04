@@ -77,6 +77,7 @@
 | [0042-trapping-rain-water](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0136-single-number) |
+| [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
