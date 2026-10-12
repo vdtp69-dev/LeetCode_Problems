@@ -88,6 +88,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
@@ -215,4 +216,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
