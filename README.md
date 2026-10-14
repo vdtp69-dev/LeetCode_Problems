@@ -41,6 +41,7 @@
 | [0020-valid-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
