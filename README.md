@@ -43,6 +43,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -145,6 +146,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Floyd's Cycle Finding Algorithm
@@ -210,6 +212,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1052-grumpy-bookstore-owner) |
