@@ -48,6 +48,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3498-reverse-degree-of-a-string](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -180,6 +182,7 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1652-defuse-the-bomb](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1652-defuse-the-bomb) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
