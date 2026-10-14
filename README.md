@@ -85,6 +85,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0835-image-overlap) |
+| [1004-max-consecutive-ones-iii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1652-defuse-the-bomb) |
@@ -118,6 +119,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -176,6 +178,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bracket Sequences
 |  |
@@ -215,6 +218,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1652-defuse-the-bomb](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
