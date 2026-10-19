@@ -93,6 +93,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1652-defuse-the-bomb) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -138,6 +139,7 @@
 | [0217-contains-duplicate](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
 |  |
@@ -188,6 +190,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vdtp69-dev/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bracket Sequences
 |  |
 | ------- |
